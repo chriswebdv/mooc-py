@@ -29,3 +29,6 @@ x = 27
 y = 15
 #use f strings to print the numbers
 print(f"{x} + {y} = {x + y}")
+print(f"{x} - {y} = {x - y}")
+print(f"{x} * {y} = {x * y}")
+print(f"{x} / {y} = {x / y}")
