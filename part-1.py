@@ -23,3 +23,9 @@ city_and_code = input("City and postal code: ")
 print(first_name + " " + last_name)
 print(address)
 print(city_and_code)
+
+# Write your solution here
+x = 27
+y = 15
+#use f strings to print the numbers
+print(f"{x} + {y} = {x + y}")
