@@ -41,3 +41,9 @@ times = int(input("Please type in a number: "))
 print(f"{times} times 5 is {times * 5}")
 
 #ask for name and birth year to print out result
+# Write your solution here
+
+name = input("What is your name? ")
+year = int(input("Which year were you born?" ))
+
+print(f"Hi {name}, you will be {2021 - year} years old at the end of the year 2021")
