@@ -39,3 +39,5 @@ print(f"{x} / {y} = {x / y}")
 times = int(input("Please type in a number: "))
 
 print(f"{times} times 5 is {times * 5}")
+
+#ask for name and birth year to print out result
