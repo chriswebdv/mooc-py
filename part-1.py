@@ -32,3 +32,6 @@ print(f"{x} + {y} = {x + y}")
 print(f"{x} - {y} = {x - y}")
 print(f"{x} * {y} = {x * y}")
 print(f"{x} / {y} = {x / y}")
+
+# Write your solution here
+#program which multiples a user input times 5
