@@ -53,3 +53,5 @@ print(f"Hi {name}, you will be {2021 - year} years old at the end of the year 20
 
 days = int(input("How many days? "))
 print(f"Seconds in that many days: {(3600 * 24) * days}")
+
+#find the absolute value
