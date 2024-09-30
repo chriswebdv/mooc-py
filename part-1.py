@@ -35,3 +35,7 @@ print(f"{x} / {y} = {x / y}")
 
 # Write your solution here
 #program which multiples a user input times 5
+
+times = int(input("Please type in a number: "))
+
+print(f"{times} times 5 is {times * 5}")
