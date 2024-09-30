@@ -54,4 +54,12 @@ print(f"Hi {name}, you will be {2021 - year} years old at the end of the year 20
 days = int(input("How many days? "))
 print(f"Seconds in that many days: {(3600 * 24) * days}")
 
+
+#write a conditional program which asks for a secret passcode
+passcode = int(input("Please type in a number: "))
+if passcode == 1984:
+    print("Orwell")
+
 #find the absolute value
+
+
