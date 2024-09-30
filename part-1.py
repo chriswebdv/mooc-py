@@ -49,3 +49,7 @@ year = int(input("Which year were you born?" ))
 print(f"Hi {name}, you will be {2021 - year} years old at the end of the year 2021")
 
 #write program which gives you the seconds in a number of days
+# Write your solution here
+
+days = int(input("How many days? "))
+print(f"Seconds in that many days: {(3600 * 24) * days}")
