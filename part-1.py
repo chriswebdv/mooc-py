@@ -82,3 +82,6 @@ if operator == "multiply":
 if operator == "subtract":
     print(f"{num1} - {num2} = {num1 - num2}")
 
+# order of magnitude
+
+
