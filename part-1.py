@@ -69,5 +69,16 @@ else:
     print(f"The absolute value of this number is {num}")
 
 # write a  calculator program which takes the users input and returns the the answer
+# Write your solution here
 
+num1 = int(input("Number 1: "))
+num2 = int(input("Number 2: "))
+operator = input("Operation: ")
+
+if operator == "add":
+    print(f"{num1} + {num2} = {num1 + num2}")
+if operator == "multiply":
+    print(f"{num1} * {num2} = {num1 * num2}")
+if operator == "subtract":
+    print(f"{num1} - {num2} = {num1 - num2}")
 
