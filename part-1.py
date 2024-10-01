@@ -68,3 +68,4 @@ if num < 0:
 else:
     print(f"The absolute value of this number is {num}")
 
+# Order or magnitude by using conditional statements, based on user input
