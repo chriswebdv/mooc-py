@@ -8,3 +8,5 @@ if age >= 18:
     print("You are of age!")
 else:
     print("You are not of age!")
+
+# Compare 2 ints using conditionals
