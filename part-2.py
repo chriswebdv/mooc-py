@@ -21,3 +21,12 @@ else:
     print("The numbers are equal!")
 
 # Alphabetically last
+str1 = input("Please type in the 1st word: ")
+str2 = input("Please type in the 2nd word: ")
+
+if str1 > str2:
+    print(f"{str1} comes alphabetically last.")
+elif str2 > str1:
+    print(f"{str2} comes alphabetically last.")
+else:
+    print("You gave the same word twice.")
